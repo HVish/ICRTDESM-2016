@@ -15,6 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <header>
              <div class="navbar-fixed">
                 <nav>
+                    <a href="#" class="brand-logo">ICRTDESM-2016</a>
                     <ul class="right hide-on-med-and-down">
                         <li><a href="#!">Home</a></li>
                         <li><a href="#!">About</a></li>

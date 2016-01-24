@@ -5,6 +5,14 @@ nav {
     height: 56px;
     line-height: 56px;
 }
+nav .brand-logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 0 20px;
+    white-space: nowrap;
+}
 footer.page-footer {
     margin-top: 20px;
     padding-top: 20px;
