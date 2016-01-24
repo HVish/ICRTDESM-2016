@@ -21,6 +21,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
 
     <div class="container hide" id="mainbody">
-        <h1>Hello World</h1>
+        <div class="row card-panel z-depth-2">
+            <div class="col l10">
+                <h1 class="light-blue-text">Hello World</h1>
+            </div>
+            <div class="col l2">
+                <ul class="section table-of-contents">
+                    <li><a href="#introduction">Introduction</a></li>
+                    <li><a href="#structure">Structure</a></li>
+                    <li><a href="#initialization">Intialization</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 </main>
