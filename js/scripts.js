@@ -1,9 +1,9 @@
 $(document).ready(function() {
     $('.loader').remove();
     $('#mainbody').removeClass('hide');
+    //initialization
     $('.scrollspy').scrollSpy();
-    // Initialize collapse button
+    $('.slider').slider({full_width: true, indicators: false});
     $(".button-collapse").sideNav();
-    // Initialize collapsible (uncomment the line below if you use the dropdown variation)
     $('.collapsible').collapsible();
 });

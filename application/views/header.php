@@ -13,10 +13,37 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </head>
     <body>
         <header>
-             <div class="navbar-fixed">
+            <div class="row">
+                <h5>International Conference on Recent Technological Development of Engineering, Science & Manangement</h5>
+            </div>
+            <div class="slider">
+                <ul class="slides">
+                    <li>
+                        <img src="<?php echo base_url()?>/img/home.jpg"> <!-- random image -->
+                        <div class="caption right-align">
+                            <h3 class="white-text text-lighten-1">Left Aligned Caption</h3>
+                            <h5 class="light white-text text-lighten-3">Here's our small slogan.</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url()?>/img/home.jpg"> <!-- random image -->
+                        <div class="caption right-align">
+                            <h3 class="white-text text-lighten-1">Left Aligned Caption</h3>
+                            <h5 class="light white-text text-lighten-3">Here's our small slogan.</h5>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="<?php echo base_url()?>/img/home.jpg"> <!-- random image -->
+                        <div class="caption right-align">
+                            <h3 class="white-text text-lighten-1">Left Aligned Caption</h3>
+                            <h5 class="light white-text text-lighten-3">Here's our small slogan.</h5>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+             <div class="navbar">
                 <nav>
-                    <a href="#" class="brand-logo">ICRTDESM-2016</a>
-                    <ul class="right hide-on-med-and-down">
+                    <ul class="left hide-on-med-and-down">
                         <li><a href="#!">Home</a></li>
                         <li><a href="#!">About</a></li>
                         <li><a href="#!">Societies</a></li>
