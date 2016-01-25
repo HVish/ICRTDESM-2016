@@ -13,9 +13,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </head>
     <body>
         <header>
-            <div class="row">
-                <h5>International Conference on Recent Technological Development of Engineering, Science & Manangement</h5>
-            </div>
+            <nav class="top-nav" style="height:100px">
+                <div class="container">
+                    <div class="nav-wrapper"><a class="page-title">International Conference on Recent Technological Development of Engineering, Science & Manangement</a></div>
+                </div>
+            </nav>
+            <div class=""></div>
             <div class="slider">
                 <ul class="slides">
                     <li>
