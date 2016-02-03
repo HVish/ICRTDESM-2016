@@ -24,4 +24,31 @@ class Home extends CI_Controller {
         $this->load->view('home');
         $this->load->view('footer');
 	}
+
+	public function reg()
+	{
+		$this->load->view('header');
+        $this->load->view('registration');
+        $this->load->view('footer');
+	}
+	public function agenda()
+	{
+		$this->load->view('header');
+        $this->load->view('agenda');
+        $this->load->view('footer');
+	}
+		public function about()
+	{
+		$this->load->view('header');
+        $this->load->view('about');
+        $this->load->view('footer');
+	}
+	public function contact()
+	{
+		$this->load->view('header');
+        $this->load->view('contact');
+        $this->load->view('footer');
+	}
+
+
 }
