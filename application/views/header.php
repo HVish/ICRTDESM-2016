@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <html>
     <head>
-        <title>ICRTDESM-2016</title>
+        <title>JICSC</title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="stylesheet" href="<?php echo base_url();?>css/materialize.css" media="screen,projection">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -11,9 +11,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <link rel="stylesheet" href="<?php echo base_url();?>css/override.css">
         <script type="text/javascript" src="<?php echo base_url();?>js/jquery-2.2.0.js"></script>
     </head>
-    <body>
+    <body class="blue-grey lighten-5">
         <header>
-            <nav class="top-nav" style="height:100px">
+            <nav class="blue-grey darken-4 top-nav" style="height:80px">
                 <div class="container">
                     <div class="nav-wrapper"><a class="page-title">International Conference on Soft Computing in Engineering</a></div>
                 </div>
@@ -45,17 +45,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </ul>
             </div>
              <div class="navbar">
-                <nav>
-                    <ul class="left hide-on-med-and-down">
-                        <li><a href="#!">Home</a></li>
-                        <li><a href="#!">About</a></li>
-                        <li><a href="#!">Societies</a></li>
-                        <li><a href="#!">Journals A-Z</a></li>
-                        <li><a href="#!">Conferences</a></li>
-                        <li><a href="#!">Policies</a></li>
-                        <li><a href="#!">Contact Us</a></li>
+                <nav class="blue-grey darken-4">
+                    <ul class="right hide-on-med-and-down">
+                        <li><a href="<?php echo base_url();?>index.php/home">Home</a></li>
+                        <li><a href="#!">Call for Papers</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/committee">Committee</a></li>
+                        <li><a href="#!">Submissions</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/reg">Registrations</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/about">About</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/agenda">Program</a></li>
+                        <li><a href="#!">Venue</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/contact">Contact Us</a></li>
+
                     </ul>
-                    <ul id="slide-out" class="side-nav">
+                    <ul id="indigo darken-4 slide-out" class="side-nav">
                         <li><a href="#!">Home</a></li>
                         <li><a href="#!">About</a></li>
                         <li><a href="#!">Societies</a></li>

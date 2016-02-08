@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container">
 	<div class ="row">
 		<div class="col s8">
-			<h4 class="header">About JECRC</h4>
+			<h4 class="header">About JICSC</h4>
 				<p class="justified">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -27,7 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="row">
 			<div class="col s12">
 			<div class="col s6">
-				<h4 class="header">About ICSCE</h4>
+				<h4 class="header">About JECRC</h4>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 			<div class="col s6">
-				<h4 class="header">About ECE</h4>
+				<h4 class="header">About IT</h4>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

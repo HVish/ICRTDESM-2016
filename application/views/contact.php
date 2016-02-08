@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="input-field col s12">
 			<i class="material-icons prefix">account_circle</i>
           <input id="icon_prefix" type="text" name="name" class="validate">
-          <label for="icon_prefix">First Name</label>
+          <label for="icon_prefix">Name</label>
         </div>
        	 <div class="input-field col s12">
        	 	<i class="material-icons prefix dp48">email</i>
@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
            <label for="icon_prefix2">Message</label>
         </div>
         <div>
-        <button class="btn waves-effect waves-light small" type="submit" name="action">Submit
+        <button class="btn waves-effect waves-light" type="submit" name="action">Submit
    		 <i class="material-icons right">send</i>
  		 </button>
  		</div>

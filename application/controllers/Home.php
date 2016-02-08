@@ -28,7 +28,13 @@ class Home extends CI_Controller {
 	public function reg()
 	{
 		$this->load->view('header');
-        $this->load->view('registration');
+        $this->load->view('reg');
+        $this->load->view('footer');
+	}
+		public function committee()
+	{
+		$this->load->view('header');
+        $this->load->view('committee');
         $this->load->view('footer');
 	}
 	public function agenda()
