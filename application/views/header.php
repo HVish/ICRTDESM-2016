@@ -13,16 +13,26 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </head>
     <body class="container">
        <header>
-            <nav class="white top-nav" style="height:80px">
+            <!--nav class="white top-nav" style="height:80px">
                 <div>
                     <div class="nav-wrapper">
-                        <a class="left"><img style="padding-top:10px"height="50px" width="120px" src="<?php echo base_url()?>img/logo conference only text.png" /></a>
-                        <a class="page-title black-text">&nbsp;International Conference on Soft Computing in Engineering</a>
-                        <a class="right"><img height="70px" width="70px" src="<?php echo base_url()?>img/trans.png" /></a>
+                        <a class="left"><img class="responsive-img" src="<?php echo base_url()?>img/logo conference only text.png" /></a>
+                        <a class="page-title black-text">International Conference on Soft Computing in Engineering</a>
+                        <a class="right"><img class="responsive-img" src="<?php echo base_url()?>img/trans.png" /></a>
                     </div>
                 </div>
-            </nav>
-            <div class=""></div>
+            </nav-->
+            <div class="row valign-wrapper top-nav">
+                <div class="col s12 m2 l2 valign">
+                    <img class="responsive-img left" src="<?php echo base_url()?>img/logo conference only text.png" />
+                </div>
+                <div class="col s12 m8 l8 valign">
+                    <a class="page-title black-text center-align">International Conference on Soft Computing in Engineering</a>
+                </div>
+                <div class="col s12 m2 l2 valign">
+                    <img class="responsive-img right" src="<?php echo base_url()?>img/trans.png" />
+                </div>
+            </div>
             <div class="slider">
                 <ul class="slides">
                     <li>

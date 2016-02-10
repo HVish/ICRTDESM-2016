@@ -8,10 +8,34 @@ main {
   flex: 1 0 auto;
 }
 
-.container .page-title {
-  line-height: 60px;
-  font-size: 33px;
-  font-weight: 500;
-  
- 
+@media only screen and (min-width: 992px) {
+    .top-nav{
+        height: 80px;
+        margin-bottom: 5px;
+    }
+    .container .page-title {
+        font-size: 30px;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .top-nav{
+        height: 80px;
+        margin-bottom: 5px;
+    }
+    .container .page-title {
+        font-size: 20px;
+        font-weight: 500;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .top-nav{
+        height: 80px;
+        margin-bottom: 5px;
+    }
+    .container .page-title {
+        font-size: 12px;
+        font-weight: 500;
+    }
 }
