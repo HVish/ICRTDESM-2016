@@ -26,8 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="col s12 m2 l2 valign">
                     <img class="responsive-img left" src="<?php echo base_url()?>img/logo conference only text.png" />
                 </div>
-                <div class="col s12 m8 l8 valign">
-                    <a class="page-title black-text center-align">International Conference on Soft Computing in Engineering</a>
+                <div class="col s12 m8 l8 valign center-align">
+                    <a class="page-title black-text">International Conference on Soft Computing in Engineering</a>
                 </div>
                 <div class="col s12 m2 l2 valign">
                     <img class="responsive-img right" src="<?php echo base_url()?>img/trans.png" />
