@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <main >
-<div class="container">
+<div>
 <table cellspacing="0" cellpadding="0" class="bordered striped">
   <col width="38" />
   <col width="191" />

@@ -1,30 +1,23 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-    <footer class=" blue-grey darken-4 page-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col l6 s12">
-                    <h5 class="white-text">IFERP Achievements</h5>
-                    <p class="grey-text text-lighten-4">
-                        Being a Non-profitable professional association IFERP encourages students with financial constraints to complete their 
-                        dream innovation by funding their research work through its “Research Funding Scheme".</p>
+        <marquee behavior="scroll" direction="left" overflow:hidden;="">
+          <h5 class="centered">In Association With </h4>  
+        </marquee>
+    <footer class="blue-grey darken-4 page-footer">
+            <div class=" row footer-copyright">
+                <div class="col s8 left">© 2017 Copyright ICSCE</div>
+                    <div class="col s4">
+                        <span align="right" class="White-text">About Developers   
+                            <a class="btn-floating btn-med red tooltipped" data-position="top" data-delay="50" data-tooltip="Piyush Menghani"></a>
+                            <a class="btn-floating btn-med red tooltipped" data-position="top" data-delay="50" data-tooltip="Arun Kumar"></a>
+                            <a class="btn-floating btn-med red tooltipped" data-position="top" data-delay="50" data-tooltip="Vishnu Singh"></a>
+                        </span> 
+                    </div>
+                 
+                
                 </div>
-                <div class="col l4 offset-l2 s12">
-                    <h5 class="white-text">Important Links</h5>
-                    <ul>
-                        <li><a class="grey-text text-lighten-3" href="#!">Paper Submission</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">Recent Publications</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="footer-copyright">
-            <div class="container">
-                © 2016 Copyright Text
-                    <a class="btn-flat grey-text text-lighten-4 right valign" href="#!" style="text-transform:none;"><i class="material-icons left">email</i>info@iferp.in</a>
-            </div>
-        </div>
+           
     </footer>
     <script type="text/javascript" src="<?php echo base_url();?>js/materialize.js"></script>
     <script type="text/javascript" src="<?php echo base_url();?>js/scripts.js"></script>

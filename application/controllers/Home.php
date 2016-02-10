@@ -24,11 +24,31 @@ class Home extends CI_Controller {
         $this->load->view('home');
         $this->load->view('footer');
 	}
+		public function submission()
+	{
+		$this->load->view('header');
+        $this->load->view('submission');
+        $this->load->view('footer');
+	}
+
 
 	public function reg()
 	{
 		$this->load->view('header');
         $this->load->view('reg');
+        $this->load->view('footer');
+	}
+
+	public function venue()
+	{
+		$this->load->view('header');
+        $this->load->view('venue');
+        $this->load->view('footer');
+	}
+		public function callforpaper()
+	{
+		$this->load->view('header');
+        $this->load->view('callforpaper');
         $this->load->view('footer');
 	}
 		public function committee()
@@ -41,12 +61,6 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('header');
         $this->load->view('agenda');
-        $this->load->view('footer');
-	}
-		public function about()
-	{
-		$this->load->view('header');
-        $this->load->view('about');
         $this->load->view('footer');
 	}
 	public function contact()

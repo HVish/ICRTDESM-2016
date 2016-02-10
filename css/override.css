@@ -18,3 +18,26 @@ footer.page-footer {
     padding-top: 20px;
     background-color: #0089ec;
 }
+*{
+    font-family: tahoma;
+}
+
+h4 {
+    padding: 0;
+}
+
+h4 .card-panel{
+    padding:0;
+}
+
+.container{
+    width: 90%;
+}
+
+.container .row{
+    margin-left: +0.00rem;
+    margin-right: +0.00rem;
+}
+footer.page-footer .footer-copyright{
+    height: 60px;
+}
