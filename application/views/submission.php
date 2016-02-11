@@ -63,10 +63,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h4 class="card-panel teal blue-grey lighten-2">Downloads</h4>
 	<div class="row">
 		<div class="col s6">
- <a href="<?php echo base_url();?>img/newfb.png" download><img height="7%" width="50%" src="<?php echo base_url();?>img/word.jpg"><p>ICSCE'17</p></a>
+ <a href="<?php echo base_url();?>img/newfb.png" download><img height="7%" width="35%" src="<?php echo base_url();?>img/word.jpg"><p>ICSCE'17</p></a>
 		</div>
 		<div class="col s6">
-  <a href="<?php echo base_url();?>img/newfb.png" download><img height="7%" width="50%" src="<?php echo base_url();?>img/pdf-logo.png"><p>ICSCE'17</p></a>
+  <a href="<?php echo base_url();?>img/newfb.png" download><img height="7%" width="35%" src="<?php echo base_url();?>img/pdf-logo.png"><p>ICSCE'17</p></a>
 </div>
 </div>
 

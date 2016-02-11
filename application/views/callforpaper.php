@@ -12,6 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 </p>
                 <p>
                     <ul class="areas">
+                        <li>	Advanced Soft Computing and Multi-Objective Evolutionary Computation</li>
                         <li>	Astronomy, chemistry, physics, Business</li>
                         <li>	Brain Computer Interfacing</li>
                         <li>	Combinatorial Optimization , Non Linear Programming</li>
@@ -24,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li>	Human Computer Interfacing</li>
                         <li>	Image Processing , Signal Processing</li>
                         <li>	Image Processing and Computer Vision</li>
+                        <li>	Innovation and Theory Related Application</li>
                         <li>	Innovation Teaching Learning</li>
                         <li>	Intelligent and Bio-Inspired Robotics</li>
                         <li>	Machine Learning, Scheduling Algorithms</li>
@@ -39,16 +41,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li>	Robotics, Motion Planning, Reactive Planning</li>
                         <li>	Swarm Intelligence, Ant Colonies, Artificial Life</li>
                         <li>	Ubiquitous Computing</li>
-                        <li>   Soft Computing and Agents Technology</li>
                         <li>   GPU Computing for Machine Learning</li>
                         <li>   Intelligent Software Agent Systems and Architectures</li>
-                        <li>	Advanced Soft Computing and Multi-Objective Evolutionary Computation</li>
                         <li>   Perception-Based Intelligent Decision Systems</li>
+                        <li>   Soft Computing and Agents Technology</li>
                         <li>   Soft Computing Fundamental and Optimization</li>
                         <li>   Soft Computing Modeling for Perception and Spiritual Intelligence</li>
                         <li>   Spatial Data Mining, Information Retrieva</li> 
                         <li>   Spiritual-Based Intelligent Systems</li>
-                        <li>	Innovation and Theory Related Application</li>
                     </ul>
                 </p>
             </div>

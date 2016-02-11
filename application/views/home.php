@@ -67,6 +67,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 The students are given practical experience by giving hands on practice for making live projects. The faculties of department are
                 well qualified and have in depth knowledge in their subjects. They have an overview of latest developments in their respective fields. 
                 The faculty is highly active in upgrading themselves by writing research papers, participating in conferences, workshops and development programs.
+                <br>
+            <b>VISION :</b><br>             
+                To establish outcome based excellence in teaching, learning and commitment to support IT Industry.
+            <br>
+            <b>MISSION :</b><br>    
+            •  To provide out come based education.<br>
+            •   To provide fundamental & Intellectual knowledge with essential skills to meet current and future need of IT Industry across the globe. <br>
+            •   To inculcate the philosophy of continues learning, ethical values & Social Responsibility.<br>
+
+            </p>
             </p>
         </div>
 

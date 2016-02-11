@@ -96,7 +96,8 @@
                 </p> 
             </div>
         </div>
-        <div class="col hide-on-small-only m4 l3">
+
+        <div class="col hide-on-small-only m4 l3 tble">
             <ul class="section table-of-contents">
                 <li><a href="#ChiefPatron">Chief Patron</a></li>
                 <li><a href="#Patron">Patron</a></li>
@@ -107,7 +108,7 @@
                 <li><a href="#Programchair">Program chair/Key Note Speaker</a></li>
                 <li><a href="#FinancialChair">Financial Chair</a></li>
                 <li><a href="#PublicityChair">Publicity Chair</a></li>
-                <li><a href="#Website Chair">Website Chair</a></li>
+                <li><a href="#WebsiteChair">Website Chair</a></li>
                 <li><a href="#Organizingcommittee">Organizing committee</a></li>
             </ul>
         </div>
