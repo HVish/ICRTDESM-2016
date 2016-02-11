@@ -59,7 +59,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li><a href="<?php echo base_url();?>index.php/home/committee">Committee</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/submission">Submissions</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/reg">Registrations</a></li>
-                        <li><a href="<?php echo base_url();?>index.php/home/agenda">Program</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/events">Program</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/venue">Venue</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/contact">Contact Us</a></li>
 
@@ -70,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <li><a href="<?php echo base_url();?>index.php/home/committee">Committee</a></li>
                         <li><a href="#!">Submissions</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/reg">Registrations</a></li>
-                        <li><a href="<?php echo base_url();?>index.php/home/agenda">Program</a></li>
+                        <li><a href="<?php echo base_url();?>index.php/home/events">Program</a></li>
                         <li><a href="#!">Venue</a></li>
                         <li><a href="<?php echo base_url();?>index.php/home/contact">Contact Us</a></li>
                     </ul>

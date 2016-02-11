@@ -39,3 +39,8 @@ main {
         font-weight: 500;
     }
 }
+
+.borderTable ,.borderTable th ,.borderTable td{
+    border: 1px solid black;
+
+}

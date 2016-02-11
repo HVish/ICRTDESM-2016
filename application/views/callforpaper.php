@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <main>
     <div class="row"></div>
     <div class ="row">
-		<div class="col s12 m9 l9">
+		<div class="col s12 m9 l8">
             <h4 class="card-panel teal blue-grey lighten-2 white-text">Call for Papers</h4>
             <div class="card-panel teal blue-grey lighten-5 z-depth 3">
                 <p align="justify">
@@ -54,7 +54,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
 		</div>
         
-		<div class="col s12 m3 l3">
+		<div class="col s12 m3 l4">
             <h4 class="card-panel teal blue-grey lighten-2 white-text">Important Dates</h4>
 			<table class="striped">
                 <tbody>
@@ -64,15 +64,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </tr>
                     <tr>
                         <td>Paper Submission</td>
-                        <td>5th Nov 2016</td>
+                        <td>5<sup>th</sup> Nov 2016</td>
                     </tr>
                     <tr>
                         <td>Intimation of acceptance</td>
-                        <td>20th Dec 2016</td>
+                        <td>20<sup>th</sup> Dec 2016</td>
                     </tr>
                     <tr>
-                        <td>Deadline for Registration and Camera Ready Paper</td>
-                        <td>5th Feb 2017</td>
+                        <td>Deadline for Registration and<br> Camera Ready Paper</td>
+                        <td>05<sup>th</sup> Feb 2017</td>
                     </tr>
                 </tbody>
 			</table>

@@ -57,10 +57,10 @@ class Home extends CI_Controller {
         $this->load->view('committee');
         $this->load->view('footer');
 	}
-	public function agenda()
+	public function events()
 	{
 		$this->load->view('header');
-        $this->load->view('agenda');
+        $this->load->view('events');
         $this->load->view('footer');
 	}
 	public function contact()
