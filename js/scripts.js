@@ -17,7 +17,6 @@ $(document).ready(function() {
             $('.tble').css("right", "0px");
         } else {
             $('.tble').css("position", "inherit");
-            //$('.tble').css("top", h);
         }
     });
 
