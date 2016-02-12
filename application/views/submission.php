@@ -8,10 +8,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<h4 class="card-panel teal blue-grey lighten-2 white-text">Registration Steps</h4>
 			<div class="justified card-panel teal blue-grey lighten-5">
 				<p align="justify">
-				<b>Step 1:</b> Kindly prepare the paper as per ICSCE-IEEE/Elsevier format.<br>
-				<b>Step 2:</b> Kindly prepare the IEEE/Elsevier copyright form
+				<b>Step 1:</b> Kindly prepare the paper as per ICSCE-IEEE/Elsevier/Springer format.<br>
+				<b>Step 2:</b> Kindly prepare the IEEE/Elsevier/Springeryright form
 				<br><b>Step 3:</b> Kindly fill up the Conference Registration form
-				<br><b>Step 4:</b> Take the Demand Draft drawn in the name of Principal, Karpagam College of Engineering payable at Coimbatore
+				<br><b>Step 4:</b> Take the Demand Draft drawn in the name ofcopPrincipal, Karpagam College of Engineering payable at Coimbatore
 				</p>
 				<p align="center">(OR)</p>
 				<p  align="justify">
@@ -40,7 +40,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-				<br> <b>Step 5:</b> Send all the Documents (IEEE/Elsevier copyright, Registration form, Camera ready paper and scanned DD/NEFT Transaction Number (If payment is made through NEFT)) to <b>convener@icsce.in</b> mentioning the paper id in the subject of the mail.
+				<br> <b>Step 5:</b> Send all the Documents (IEEE/Elsevier/Springer) copyright, Registration form, Camera ready paper and scanned DD/NEFT Transaction Number (If payment is made through NEFT)) to <b>convener@icsce.in</b> mentioning the paper id in the subject of the mail.
 				<br>Kindly finish the registration earlier to speed up the publication process. Also Send Only the hard copy of filled Registration form along with DD to
 
 				<br><b>Dr. K S Raghuwanshi,</b>

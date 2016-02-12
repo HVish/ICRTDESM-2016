@@ -82,9 +82,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                   <i class="large material-icons">supervisor_account</i>
                 </a>
                 <ul>
-                    <li><a class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Facebok"><img style="padding-right:5px" height="40" width="53" src="<?php echo base_url();?>img/facebook.png"></a></li>
-                    <li><a class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Twitter"><img style="padding-right:5px" height="40" width="53" src="<?php echo base_url();?>img/Twitter.ico" /></a></a></li>
-                    <li><a class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Goggle+"><img style="padding-right:5px" height="40" width="53" src="<?php echo base_url();?>img/google.png" /></a></li>
+                    <li><a href="https://www.facebook.com/JECRCfoundation/" class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Facebok"><img class="responsive-img" src="<?php echo base_url();?>img/facebook.png"></a></li>
+                    <li><a class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Twitter"><img class="responsive-img" src="<?php echo base_url();?>img/Twitter.ico" /></a></a></li>
+                    <li><a class="btn-floating white tooltipped" data-position="top" data-delay="50" data-tooltip="Goggle+"><img class="responsive-img" src="<?php echo base_url();?>img/google.png" /></a></li>
                 </ul>
             </div>
         </header>
