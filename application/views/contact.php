@@ -6,6 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div>
 	<div class="row">
 	<div class="col s8">
+    <div class="row"></div>
     <div class="map-container">
 	<iframe width="98%" height="60%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Jaipur%20Engineering%20College%20and%20research%20centre%2C%20Jaipur%2C%20Rajasthan%2C%20India&key=AIzaSyDvM6K5_I2eHz59FjqipT6F-TYP8pJU1_o" allowfullscreen></iframe>
 	</div>
